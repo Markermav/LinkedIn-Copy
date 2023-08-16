@@ -1,0 +1,4 @@
+Open terminal in Backend
+install jest, if not done so before. npm install jest --save --dev 
+then run 
+npx jest
